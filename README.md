@@ -12,6 +12,6 @@ It's intended to be used on a windows machine and for rather small subreddits.
 
 ## Usage / Installation
 
-1. Put the `dl.php` and a "dl" folder on your PHP-enabled webserver
+1. Put the `dl.php` and a `dl` folder on your PHP-enabled webserver
 2. Edit the config variables in `dl.php`
 3. Open `dl.php` in a browser and see your `dl` folder getting filled
