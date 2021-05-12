@@ -1,3 +1,6 @@
+> :warning: **2021 notice: It's completely idiotic to use PHP for this task, but as you can see it works lol**
+<br/>
+
 # Reddit-DL
 
 This is a simple [PHP](https://www.php.net/) script to download an entire [Reddit](https://reddit.com) subreddit for archiving / [data hoarding](https://www.reddit.com/r/DataHoarder/) purposes. The script makes heavy use of [Pushift.io](https://pushift.io) ([API](https://github.com/pushshift/api)). [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) does the video downloads.
